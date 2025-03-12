@@ -1,4 +1,4 @@
----
+sherozbek 
 manufacturer: samsung
 
 ---
